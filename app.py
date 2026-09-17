@@ -15,7 +15,7 @@ FB_AUTH = os.environ.get("FB_AUTH", "")  # set this in your host's dashboard, do
 REQUESTS_PATH = "paidtasks_deletion_requests"
 
 APP_NAME = "Surveytaps"
-SUPPORT_EMAIL = os.environ.get("SUPPORT_EMAIL", "support@ngelicyber.com")
+SUPPORT_EMAIL = os.environ.get("SUPPORT_EMAIL", "nicoleleather1@gmail.com")
 
 
 def identifier_is_valid(identifier: str) -> bool:
